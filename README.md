@@ -31,8 +31,9 @@ jupyter notebook
 
 ## Functionality Implemented
 * Input: image and a set of points (x,y) coordinates for the points provided
-* Output: * Boolean mask for the instance segmentation of the object within the points
-          * Gives bounding box as part of the output
-          * Also provides classification result of the returned object
+* Output: 
+       * Boolean mask for the instance segmentation of the object within the points
+       * Gives bounding box as part of the output
+       * Also provides classification result of the returned object
 
 Credits [https://github.com/scaelles/DEXTR-PyTorch/](DEXTR-Pytorch)
