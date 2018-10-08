@@ -37,3 +37,4 @@ jupyter notebook
       * Gives bounding box as part of the output
       * Also provides classification result of the returned object
 
+Credits [DEXTR-Pytorch](https://github.com/scaelles/DEXTR-PyTorch/)
